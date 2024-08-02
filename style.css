@@ -1,0 +1,27 @@
+.q{
+    color: blue;
+}
+.a{
+    background-color: green;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 35px;
+    color: white;
+    font-weight: 600;
+}
+.f{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    margin-top: 300px;
+}
+
+.c{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 20px 35px;
+    font-weight: 600;
+}
